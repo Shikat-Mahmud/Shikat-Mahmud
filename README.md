@@ -11,13 +11,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shikat-Mahmud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="left"> <a href="https://twitter.com/shikatmahmud" target="blank"><img src="https://img.shields.io/twitter/follow/shikatmahmud?logo=twitter&style=for-the-badge" alt="Shikat-Mahmud" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/eftakhar-mahmud" target="blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Eftakhar Mahmud Shikat" /></a> </p>
 
 - 🔭 I’m currently working on <b>Android development with Kotlin</b>
 
-- 🌱 I’m currently learning *JavaScript, Java, C#, ASP.Net*
-
-- 👯 I’m looking to collaborate on *Supply Chain Management System*
+- 🌱 I’m currently learning *JavaScript, Java, C#, ASP.NET*
 
 - 💬 Ask me about *HTML, CSS, JavaScript, Python, C#, Java, Kotlin, PHP*
 
