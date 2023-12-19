@@ -13,13 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/shikatmahmud" target="blank"><img src="https://img.shields.io/twitter/follow/shikatmahmud?logo=twitter&style=for-the-badge" alt="Shikat-Mahmud" /></a> </p>
 
-- 🔭 I’m currently working on *Supply Chain Management System*
+- 🔭 I’m currently working on <b>Android development with Kotlin</b>
 
 - 🌱 I’m currently learning *JavaScript, Java, C#, ASP.Net*
 
 - 👯 I’m looking to collaborate on *Supply Chain Management System*
 
-- 💬 Ask me about *HTML, CSS, Python, Java, JavaScript, C#*
+- 💬 Ask me about *HTML, CSS, JavaScript, Python, C#, Java, Kotlin, PHP*
 
 
 
