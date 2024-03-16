@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://linkedin.com/in/eftakhar-mahmud" target="blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Eftakhar Mahmud Shikat" /></a> </p>
 
-- 🔭 I’m currently working on <b>Android development with Kotlin</b>
+- 🔭 I’m currently working on <b>Web development with Laravel</b>
 
-- 🌱 I’m currently learning *JavaScript, Java, C#, ASP.NET*
+- 🌱 I’m currently learning *PHP, Laravel, C#, ASP.NET*
 
 - 💬 Ask me about *HTML, CSS, JavaScript, Python, C#, Java, Kotlin, PHP*
 
